@@ -1,5 +1,11 @@
-# My GitHub Pages Site
-
-## Welcome
-
-`:D`
+<DOCTYPE html>
+<html>
+   <head>
+      <title>Greatest Site Of All Time!!!</title>
+   </head>
+   <body>
+      <h1>Greatest and coolest site of all time! (Beta 0.0.1)</h1>
+      <p>Welcome to the greatest and coolest website of all time, Where you can browse the website for stuff and more stuff and even stumble opon COOL STUFF!1!1!1!! And hope you enjoy.</p>
+      <a href="documents\index.html"> Documents about stuf </a>
+   </body>
+</html>
